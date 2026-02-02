@@ -1,6 +1,6 @@
 # 🔐 QuantumGuard - Quantum Entropy Wallet Generator
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success.svg)](https://securewallet-1igs.onrender.com)
+[![Live Demo](https://img.shields.io/badge/demo-live-success.svg)](https://quantumguardseed.vercel.app/)
 [![License](https://img.shields.io/badge/license-proprietary-red.svg)](LICENSE)
 [![Security](https://img.shields.io/badge/security-audited-success.svg)](#-security)
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
@@ -8,7 +8,7 @@
 
 **Generate cryptocurrency wallet seeds using real quantum entropy from vacuum fluctuations, combined with client-side cryptographic randomness.**
 
-🔗 **Try it now:** [https://securewallet-1igs.onrender.com](https://securewallet-1igs.onrender.com)
+🔗 **Try it now:** [https://quantumguardseed.vercel.app/](https://quantumguardseed.vercel.app/)
 
 ---
 
@@ -56,7 +56,7 @@ Most crypto wallets rely on pseudo-random number generators (PRNGs) — mathemat
 
 ### User Journey
 
-1. **Visit the interface** at [securewallet-1igs.onrender.com](https://securewallet-1igs.onrender.com)
+1. **Visit the interface** at [https://quantumguardseed.vercel.app/](https://quantumguardseed.vercel.app/)
 2. **Send exactly 0.05 SOL** to our payment address (Solana mainnet)
 3. **Paste transaction hash** from your wallet confirmation
 4. **Receive quantum entropy** mixed with local randomness
@@ -196,9 +196,9 @@ Your seed phrases are generated **in your browser** and stored **by you offline*
 
 ## 📞 Contact & Support
 
-- 🌐 **Website:** [securewallet-1igs.onrender.com](https://securewallet-1igs.onrender.com)
+- 🌐 **Website:** [https://quantumguardseed.vercel.app/](https://quantumguardseed.vercel.app/)
 - 📧 **Email:** quantumguard@outlook.com
-- 🐦 **Twitter:** [@QuantumGuardLabs](https://twitter.com/)
+- 🐦 **Twitter:** [@QuantumGuard](https://twitter.com/)
 - 💬 **Issues:** For feature requests or bug reports (security issues via email only)
 
 ---
