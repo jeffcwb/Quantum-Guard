@@ -1,0 +1,111 @@
+# Proprietary License
+
+Copyright © 2026 QuantumGuard Labs. All rights reserved.
+
+## Terms and Conditions
+
+### 1. Grant of License
+
+This software and associated documentation (the "Software") is made publicly available for **transparency and security audit purposes only**. 
+
+You are granted a limited, non-exclusive, non-transferable, revocable license to:
+- ✅ View the frontend source code for security auditing
+- ✅ Test the publicly hosted service at https://securewallet-1igs.onrender.com
+- ✅ Report security vulnerabilities via quantumguard@outlook.com
+
+### 2. Restrictions
+
+You are **NOT** permitted to:
+- ❌ Copy, fork, clone, or replicate this software or any component thereof
+- ❌ Create derivative works based on this software
+- ❌ Reverse engineer, decompile, or disassemble any proprietary components
+- ❌ Use this software for commercial purposes without written permission
+- ❌ Remove or modify any copyright, trademark, or attribution notices
+- ❌ Deploy competing services using similar architecture or branding
+- ❌ Redistribute, sublicense, or transfer this software or any rights herein
+
+### 3. Frontend Code Transparency
+
+The frontend HTML/CSS/JavaScript code is visible in web browsers for **audit purposes only**. This visibility is intentional to enable security researchers and users to verify our security claims, but does NOT constitute a grant of license to copy or redistribute.
+
+### 4. Intellectual Property
+
+All intellectual property rights, including but not limited to:
+- Source code (frontend and backend)
+- Algorithms and cryptographic implementations
+- API design and architecture
+- Branding, trademarks, and visual design
+- Documentation and user interfaces
+
+...remain the exclusive property of QuantumGuard Labs.
+
+### 5. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+### 6. Limitation of Liability
+
+IN NO EVENT SHALL QUANTUMGUARD LABS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This includes, but is not limited to:
+- Loss of cryptocurrency funds
+- Loss or compromise of seed phrases
+- Service interruptions or downtime
+- Errors in entropy generation
+- Any consequential, incidental, or special damages
+
+### 7. User Responsibilities
+
+Users of this software acknowledge and accept sole responsibility for:
+- Secure storage of generated seed phrases
+- Verification of payment transactions
+- Understanding cryptocurrency risks
+- Maintaining offline backups
+- Protecting their own private keys
+
+### 8. Payment Terms
+
+Payment of 0.05 SOL entitles the user to **one (1)** wallet seed phrase generation. Payments are:
+- Non-refundable after generation completes
+- Not transferable between users
+- Validated via Solana blockchain only
+- Subject to anti-replay protection (one use per transaction)
+
+### 9. Security Vulnerabilities
+
+Security researchers who discover vulnerabilities are encouraged to report them privately to security@quantumguard.io. Good-faith security research conducted within legal boundaries is permitted and encouraged.
+
+### 10. Termination
+
+This license is effective until terminated. QuantumGuard Labs reserves the right to terminate this license at any time if you fail to comply with any term herein. Upon termination, you must cease all use of the Software.
+
+### 11. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of [Your Jurisdiction], without regard to its conflict of law provisions.
+
+### 12. Contact for Licensing
+
+For inquiries regarding commercial licensing, white-label deployments, or enterprise solutions, contact:
+
+**QuantumGuard Labs**  
+Email: quantumguard@outlook.com  
+Web: https://securewallet-1igs.onrender.com
+
+---
+
+## Summary (Not Legally Binding)
+
+**TL;DR:**
+- ✅ You can USE the service by paying 0.05 SOL
+- ✅ You can VIEW the code for security audits
+- ✅ You can REPORT bugs and vulnerabilities
+- ❌ You CANNOT copy, fork, or clone this project
+- ❌ You CANNOT create competing services
+- ❌ You CANNOT redistribute any component
+
+This summary is provided for convenience only and is not part of the license terms. In case of conflict, the full terms above prevail.
+
+---
+
+**Last Updated:** February 2026  
+**Version:** 1.0
