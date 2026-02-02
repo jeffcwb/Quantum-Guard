@@ -649,7 +649,7 @@ function generateWalletLocally(serverEntropyHex) {
 
             // 2. Domínio verificado
             setTimeout(() => {
-                const expectedDomain = 'securewallet-1igs.onrender.com';
+                const expectedDomain = 'quantumguardseed.vercel.app';
                 const domainOk = window.location.hostname === expectedDomain || window.location.hostname === 'localhost';
                 addResult(`Domínio verificado: ${window.location.hostname}`, domainOk);
             }, 1200);
